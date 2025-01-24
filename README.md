@@ -1,2 +1,2 @@
 # sumobot
-autonomous sumo robot that won 3rd place
+autonomous sumo robot that won 3rd place (500$)
